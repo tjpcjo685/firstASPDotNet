@@ -7506,11 +7506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZheYuan\\source\\repos\\zheITHome\\zheITHome\\zheITHome.csproj",
+      "projectUniqueName": "c:\\Users\\ZheYuan\\firstASPDotNet\\zheITHome.csproj",
       "projectName": "zheITHome",
-      "projectPath": "C:\\Users\\ZheYuan\\source\\repos\\zheITHome\\zheITHome\\zheITHome.csproj",
+      "projectPath": "c:\\Users\\ZheYuan\\firstASPDotNet\\zheITHome.csproj",
       "packagesPath": "C:\\Users\\ZheYuan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZheYuan\\source\\repos\\zheITHome\\zheITHome\\obj\\",
+      "outputPath": "c:\\Users\\ZheYuan\\firstASPDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZheYuan\\source\\repos\\zheITHome\\zheITHome\\zheITHome.csproj": {}
+    "C:\\Users\\ZheYuan\\firstASPDotNet\\zheITHome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZheYuan\\source\\repos\\zheITHome\\zheITHome\\zheITHome.csproj": {
+    "C:\\Users\\ZheYuan\\firstASPDotNet\\zheITHome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZheYuan\\source\\repos\\zheITHome\\zheITHome\\zheITHome.csproj",
+        "projectUniqueName": "C:\\Users\\ZheYuan\\firstASPDotNet\\zheITHome.csproj",
         "projectName": "zheITHome",
-        "projectPath": "C:\\Users\\ZheYuan\\source\\repos\\zheITHome\\zheITHome\\zheITHome.csproj",
+        "projectPath": "C:\\Users\\ZheYuan\\firstASPDotNet\\zheITHome.csproj",
         "packagesPath": "C:\\Users\\ZheYuan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZheYuan\\source\\repos\\zheITHome\\zheITHome\\obj\\",
+        "outputPath": "C:\\Users\\ZheYuan\\firstASPDotNet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
